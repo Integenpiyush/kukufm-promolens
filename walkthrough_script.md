@@ -34,7 +34,7 @@ Keep it natural, energetic, and under 3 minutes.
 ---
 
 ### [01:15 - 02:00] Live Demo: Streamlit Studio & Premiere EDL Export
-**Screen to show:** Switch to the interactive Streamlit UI (`streamlit run app.py`). Click on Rank #1 and Rank #2 promos. Show the visual timeline and scores.
+**Screen to show:** Switch to the live deployed Streamlit UI (https://integenpiyush-kukufm-promolens-app-m1j9gq.streamlit.app/). Click on Rank #1 and Rank #2 promos. Show the 9:16 mobile mockup, timeline, and scores.
 
 **Spoken Script:**
 > "Here is the interactive **PromoLens Studio** running on the full 50-episode pack.

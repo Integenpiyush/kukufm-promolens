@@ -95,3 +95,12 @@ Where does the automated tool fail? We built an automated Diagnostic Suite (`src
 
 ### Tool Reflection:
 During early prompting with LLMs, the model consistently hallucinated timestamps that ended mid-sentence. We solved this by stripping timestamp selection entirely from the LLM and delegating it to our deterministic boundary constraint solver.
+
+---
+
+## 6. Deliverables & Prototype Verification
+- **Live Cloud Deployed App:** [https://integenpiyush-kukufm-promolens-app-m1j9gq.streamlit.app/](https://integenpiyush-kukufm-promolens-app-m1j9gq.streamlit.app/)
+- **GitHub Repository & Code:** [https://github.com/Integenpiyush/kukufm-promolens](https://github.com/Integenpiyush/kukufm-promolens)
+- **1-Click Google Colab Notebook:** [PromoLens_Prototype.ipynb](https://colab.research.google.com/github/Integenpiyush/kukufm-promolens/blob/main/PromoLens_Prototype.ipynb)
+- **One-Command Production CLI:** `python run_pipeline.py` — Evaluates all 50 episodes in 1.07s; exports JSON, CSV, and Premiere EDLs.
+- **Raw Outputs Folder:** Full unedited dataset results in `raw_outputs/` (includes `all_promos.json`, `top_ranked_promos.csv`, `quality_diagnostics.json`, and 10 NLE EDLs).

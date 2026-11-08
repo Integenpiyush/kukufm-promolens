@@ -291,9 +291,10 @@ def build_pdf(output_pdf_path: str):
     # 6. Prototype & Verification Links
     story.append(Paragraph("6. Deliverables & Prototype Verification", sec_heading))
     deliv_text = (
-        "• <b>Interactive Streamlit Studio:</b> `streamlit run app.py` — Live timeline scrub, filter by campaign wave, test custom scripts.<br/>"
-        "• <b>One-Command Production CLI:</b> `python run_pipeline.py` — Processes all 50 episodes in 1.07s; exports JSON, CSV, and Premiere EDLs.<br/>"
-        "• <b>Raw Outputs Folder:</b> Complete unedited dataset results in `raw_outputs/` (includes `all_promos.json`, `top_ranked_promos.csv`, `quality_diagnostics.json`, and 10 NLE EDLs)."
+        "• <b>Live Cloud Deployed App:</b> <font color='#D32F2F'><b>https://integenpiyush-kukufm-promolens-app-m1j9gq.streamlit.app/</b></font><br/>"
+        "• <b>GitHub Repository & Code:</b> https://github.com/Integenpiyush/kukufm-promolens<br/>"
+        "• <b>One-Command Production CLI:</b> `python run_pipeline.py` — Evaluates all 50 episodes in 1.07s; exports JSON, CSV, and Premiere EDLs.<br/>"
+        "• <b>Raw Outputs Folder:</b> Full unedited results in `raw_outputs/` (includes `all_promos.json`, `top_ranked_promos.csv`, and 10 NLE EDLs)."
     )
     story.append(Paragraph(deliv_text, body_style))
 

@@ -1,12 +1,13 @@
 # 🎬 PromoLens: AI Microdrama Promo Extraction & Ranking Pipeline
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Live Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://integenpiyush-kukufm-promolens-app-m1j9gq.streamlit.app/)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Integenpiyush/kukufm-promolens/blob/main/PromoLens_Prototype.ipynb)
 [![Solution Doc](https://img.shields.io/badge/Solution%20Doc-2--Page%20PDF-brightgreen?logo=adobeacrobatreader)](https://github.com/Integenpiyush/kukufm-promolens/blob/main/artifacts/Kuku_AI_Generalist_Solution_Doc.pdf)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)]()
+[![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Live%20%26%20Deployed-brightgreen.svg)]()
 [![Dataset](https://img.shields.io/badge/Dataset-50%20Episodes%20Parsed-red.svg)]()
 
-> **Submission for Kuku AI Generalist Assignment — Problem 1: Find the Promos (Ads)**  
+> **Official Submission for Kuku AI Generalist Assignment — Problem 1: Find the Promos (Ads)**  
 > Built for Kuku's AI-generated vertical microdramas (*"I Married a Broken Soldier. He was a Duke"*).
 
 ---
@@ -15,7 +16,8 @@
 
 | Deliverable | 1-Click Link | What It Does |
 | :--- | :---: | :--- |
-| **🚀 Live Cloud Execution (No Install Needed)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Integenpiyush/kukufm-promolens/blob/main/PromoLens_Prototype.ipynb) | **Runs live in Google Colab**. Extracts promos on the 50 episodes and lets you test custom scripts instantly. |
+| **🌐 Live Deployed App (Streamlit Cloud)** | [**🚀 Open Live Prototype Studio**](https://integenpiyush-kukufm-promolens-app-m1j9gq.streamlit.app/) | **Interactive Live Web App**. Features 9:16 vertical video simulator, timeline scrubbing & live script analyzer. |
+| **⚡ Live Cloud Notebook (Google Colab)** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Integenpiyush/kukufm-promolens/blob/main/PromoLens_Prototype.ipynb) | **Runs in Google Colab**. Extracts promos on the 50 episodes and lets you test custom scripts instantly. |
 | **📄 Official Solution Doc (PDF)** | [**Download 2-Page PDF**](https://github.com/Integenpiyush/kukufm-promolens/blob/main/artifacts/Kuku_AI_Generalist_Solution_Doc.pdf) | Concise 2-page report answering problem choice, scale economics, ranking & honest failures. |
 | **📊 Ranked Promos Table (CSV)** | [**View top_ranked_promos.csv**](https://github.com/Integenpiyush/kukufm-promolens/blob/main/raw_outputs/top_ranked_promos.csv) | Full unedited output table: Episode, Start/End timestamps, Hook, Cliffhanger, Scores. |
 | **📁 Full JSON Outputs** | [**View all_promos.json**](https://github.com/Integenpiyush/kukufm-promolens/blob/main/raw_outputs/all_promos.json) | Complete structured metadata for all candidate promo windows. |
