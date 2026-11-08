@@ -1,0 +1,752 @@
+[
+  {
+    "promo_id": "PROMO_EP002_053s",
+    "global_rank": 1,
+    "episode": 2,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 23.0,
+    "segments": [
+      {
+        "episode": 2,
+        "start": "00:53.40",
+        "end": "01:16.40",
+        "start_sec": 53.4,
+        "end_sec": 76.4,
+        "duration_sec": 23.0
+      }
+    ],
+    "hook": "LADY IN GOLD GOWN (Taunting, Giggling): \"You look like a kitchen maid who wandered into the wrong wedding.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "LADY JULIANA: \"Dignity?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (LADY IN GOLD GOWN vs OFF-SCREEN VOICE) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 10.0,
+      "cliffhanger_score": 7.8,
+      "standalone_clarity_score": 9.3,
+      "pacing_score": 9.0,
+      "composite_score": 9.05
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP002_000s",
+    "global_rank": 2,
+    "episode": 2,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 27.4,
+    "segments": [
+      {
+        "episode": 2,
+        "start": "00:00.00",
+        "end": "00:27.40",
+        "start_sec": 0.0,
+        "end_sec": 27.4,
+        "duration_sec": 27.4
+      }
+    ],
+    "hook": "THE FORMER GROOM (Cold, Callous): \"I cannot marry you, Juliana.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "LADY JULIANA: \"A better choice? Is that what she is?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (THE FORMER GROOM vs LADY JULIANA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 8.9,
+      "cliffhanger_score": 8.3,
+      "standalone_clarity_score": 10.0,
+      "pacing_score": 9.0,
+      "composite_score": 8.96
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP030_074s",
+    "global_rank": 3,
+    "episode": 30,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 34.0,
+    "segments": [
+      {
+        "episode": 30,
+        "start": "01:14.80",
+        "end": "01:48.80",
+        "start_sec": 74.8,
+        "end_sec": 108.8,
+        "duration_sec": 34.0
+      }
+    ],
+    "hook": "ELDER NOBLEMAN (Cold, Calculating): \"Give those facts to a magistrate in the right order, and she becomes a poisoner.\"",
+    "hook_type": "Status Reversal",
+    "cliffhanger": "CATHERINE: \"And the Dowager?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Visceral power reversal creates instant empathy, driving high completion rate (34s) before cutting on an unresolved power shift.",
+    "scores": {
+      "hook_score": 10.0,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.94
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP029_024s",
+    "global_rank": 4,
+    "episode": 29,
+    "campaign_category": "Retargeting (High Cliffhanger)",
+    "total_duration_sec": 49.5,
+    "segments": [
+      {
+        "episode": 29,
+        "start": "00:24.80",
+        "end": "01:14.30",
+        "start_sec": 24.8,
+        "end_sec": 74.3,
+        "duration_sec": 49.5
+      }
+    ],
+    "hook": "CATHERINE (Cruel, Smug): \"You still call this a legacy?\"",
+    "hook_type": "Lethal Threat",
+    "cliffhanger": "CATHERINE: \"Your scarred soldier?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "High physical stakes and impending doom arrest scrolling attention in <2s, ending precisely as the confrontation reaches fever pitch.",
+    "scores": {
+      "hook_score": 8.4,
+      "cliffhanger_score": 9.3,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 8.5,
+      "composite_score": 8.91
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP026_055s",
+    "global_rank": 5,
+    "episode": 26,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 39.2,
+    "segments": [
+      {
+        "episode": 26,
+        "start": "00:55.80",
+        "end": "01:35.00",
+        "start_sec": 55.8,
+        "end_sec": 95.0,
+        "duration_sec": 39.2
+      }
+    ],
+    "hook": "DOWAGER DUCHESS (Trembling, Heartbroken): \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't t\"",
+    "hook_type": "Status Reversal",
+    "cliffhanger": "Action: The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "Visceral power reversal creates instant empathy, driving high completion rate (39s) before cutting on an unresolved power shift.",
+    "scores": {
+      "hook_score": 9.4,
+      "cliffhanger_score": 7.2,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.85
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP037_065s",
+    "global_rank": 6,
+    "episode": 37,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 30.0,
+    "segments": [
+      {
+        "episode": 37,
+        "start": "01:05.50",
+        "end": "01:35.50",
+        "start_sec": 65.5,
+        "end_sec": 95.5,
+        "duration_sec": 30.0
+      }
+    ],
+    "hook": "NOBLEMAN (Fascinated): \"A public execution after a wedding.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "Action: Juliana curls her fingers back, pulling away from the foul sustenance in defiance.",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "Universal moral outrage hook (NOBLEMAN vs LADY CLARISSA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Physical Climax.",
+    "scores": {
+      "hook_score": 9.2,
+      "cliffhanger_score": 7.2,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.78
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP032_047s",
+    "global_rank": 7,
+    "episode": 32,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 31.6,
+    "segments": [
+      {
+        "episode": 32,
+        "start": "00:47.80",
+        "end": "01:19.40",
+        "start_sec": 47.8,
+        "end_sec": 79.4,
+        "duration_sec": 31.6
+      }
+    ],
+    "hook": "CATHERINE (Sneering, Mocking): \"A disgraced woman?\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "CATHERINE: \"Your soldier?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (CATHERINE vs JULIANA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 8.2,
+      "cliffhanger_score": 8.3,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.76
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP033_029s",
+    "global_rank": 8,
+    "episode": 33,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 40.8,
+    "segments": [
+      {
+        "episode": 33,
+        "start": "00:29.20",
+        "end": "01:10.00",
+        "start_sec": 29.2,
+        "end_sec": 70.0,
+        "duration_sec": 40.8
+      }
+    ],
+    "hook": "MAID (Tearful, Sincere): \"I watched her save him.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "Action: The maid gasps in sheer terror, her chest heaving as tears stream.",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "Universal moral outrage hook (MAID vs LORD) immediately triggers social scrolling stop, building unbearable injustice into a sharp Physical Climax.",
+    "scores": {
+      "hook_score": 9.1,
+      "cliffhanger_score": 7.2,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.75
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP033_068s",
+    "global_rank": 9,
+    "episode": 33,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 43.0,
+    "segments": [
+      {
+        "episode": 33,
+        "start": "01:08.50",
+        "end": "01:51.50",
+        "start_sec": 68.5,
+        "end_sec": 111.5,
+        "duration_sec": 43.0
+      }
+    ],
+    "hook": "MAID (Begging, Heartbroken): \"Please, my Lord... he is only seven!\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "LORD: \"Praying... or chanting?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (MAID vs LORD) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 9.3,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.7
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP030_016s",
+    "global_rank": 10,
+    "episode": 30,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 41.9,
+    "segments": [
+      {
+        "episode": 30,
+        "start": "00:16.90",
+        "end": "00:58.80",
+        "start_sec": 16.9,
+        "end_sec": 58.8,
+        "duration_sec": 41.9
+      }
+    ],
+    "hook": "ELDER NOBLEMAN (Stern, Disapproving): \"The kitchen maids are whispering. They see the soup bowls returned unwiped. They\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "CATHERINE: \"You have a solution?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (ELDER NOBLEMAN vs RUPERT) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 9.2,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.66
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP024_033s",
+    "global_rank": 11,
+    "episode": 24,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 36.7,
+    "segments": [
+      {
+        "episode": 24,
+        "start": "00:33.80",
+        "end": "01:10.50",
+        "start_sec": 33.8,
+        "end_sec": 70.5,
+        "duration_sec": 36.7
+      }
+    ],
+    "hook": "NOBLEWOMAN (Cold, Threatening): \"You are a maid.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "NOBLEWOMAN: \"Do you want the same punishment?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (NOBLEWOMAN vs LADY JULIANA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 9.1,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.62
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP001_006s",
+    "global_rank": 12,
+    "episode": 1,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 30.9,
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:06.80",
+        "end": "00:37.70",
+        "start_sec": 6.8,
+        "end_sec": 37.7,
+        "duration_sec": 30.9
+      }
+    ],
+    "hook": "Action: Juliana's eyes widen slightly in bewilderment as she notices something amiss at the altar.",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "LADY JULIANA: \"Why are you holding her hand?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (MATRIARCH vs LADY JULIANA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 7.9,
+      "cliffhanger_score": 7.8,
+      "standalone_clarity_score": 10.0,
+      "pacing_score": 10.0,
+      "composite_score": 8.61
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP028_067s",
+    "global_rank": 13,
+    "episode": 28,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 29.8,
+    "segments": [
+      {
+        "episode": 28,
+        "start": "01:07.20",
+        "end": "01:37.00",
+        "start_sec": 67.2,
+        "end_sec": 97.0,
+        "duration_sec": 29.8
+      }
+    ],
+    "hook": "BLOND NOBLEMAN (Commanding, Resolute): \"Take her away before she poisons the rest of this house.\"",
+    "hook_type": "Lethal Threat",
+    "cliffhanger": "Action: Juliana gasps in horror, realizing her secret identity has been laid bare.",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "High physical stakes and impending doom arrest scrolling attention in <2s, ending precisely as the confrontation reaches fever pitch.",
+    "scores": {
+      "hook_score": 9.1,
+      "cliffhanger_score": 7.2,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 9.0,
+      "composite_score": 8.6
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP003_000s",
+    "global_rank": 14,
+    "episode": 3,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 43.3,
+    "segments": [
+      {
+        "episode": 3,
+        "start": "00:00.00",
+        "end": "00:43.30",
+        "start_sec": 0.0,
+        "end_sec": 43.3,
+        "duration_sec": 43.3
+      }
+    ],
+    "hook": "LADY IN GOLD GOWN (Mocking, Spiteful): \"Look at you...\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "LADY JULIANA: \"Leave where?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (LADY IN GOLD GOWN vs LADY JULIANA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 7.7,
+      "cliffhanger_score": 8.3,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.59
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP012_028s",
+    "global_rank": 15,
+    "episode": 12,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 30.0,
+    "segments": [
+      {
+        "episode": 12,
+        "start": "00:28.00",
+        "end": "00:58.00",
+        "start_sec": 28.0,
+        "end_sec": 58.0,
+        "duration_sec": 30.0
+      }
+    ],
+    "hook": "CLARISSA (Purring, Taunting): \"Oh, dear sister...\"",
+    "hook_type": "Lethal Threat",
+    "cliffhanger": "Action: Gerald bursts into a loud, mocking laugh beside the stony Constable.",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "High physical stakes and impending doom arrest scrolling attention in <2s, ending precisely as the confrontation reaches fever pitch.",
+    "scores": {
+      "hook_score": 9.2,
+      "cliffhanger_score": 6.2,
+      "standalone_clarity_score": 10.0,
+      "pacing_score": 10.0,
+      "composite_score": 8.58
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP007_065s",
+    "global_rank": 16,
+    "episode": 7,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 31.3,
+    "segments": [
+      {
+        "episode": 7,
+        "start": "01:05.20",
+        "end": "01:36.50",
+        "start_sec": 65.2,
+        "end_sec": 96.5,
+        "duration_sec": 31.3
+      }
+    ],
+    "hook": "GERALD (Furious, Threatening): \"I have enough influence to make a beggar disappear.\"",
+    "hook_type": "Status Reversal",
+    "cliffhanger": "ARISTOCRATIC WOMAN: \"Leaving? Gerald!\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Visceral power reversal creates instant empathy, driving high completion rate (31s) before cutting on an unresolved power shift.",
+    "scores": {
+      "hook_score": 8.1,
+      "cliffhanger_score": 7.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.57
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP034_041s",
+    "global_rank": 17,
+    "episode": 34,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 34.5,
+    "segments": [
+      {
+        "episode": 34,
+        "start": "00:41.00",
+        "end": "01:15.50",
+        "start_sec": 41.0,
+        "end_sec": 75.5,
+        "duration_sec": 34.5
+      }
+    ],
+    "hook": "PRUDENCE (Trembling, Tearful): \"Yes, Your Honor.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "JUDGE: \"And did she speak words you could not understand?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (PRUDENCE vs JUDGE) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 8.9,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.55
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP015_056s",
+    "global_rank": 18,
+    "episode": 15,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 25.9,
+    "segments": [
+      {
+        "episode": 15,
+        "start": "00:56.50",
+        "end": "01:22.40",
+        "start_sec": 56.5,
+        "end_sec": 82.4,
+        "duration_sec": 25.9
+      }
+    ],
+    "hook": "BALD THUG (Cruel, Laughing): \"Look at her! Crying over weeds!\"",
+    "hook_type": "Status Reversal",
+    "cliffhanger": "THUG WITH CAP: \"What? You want to fight us, veteran?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Visceral power reversal creates instant empathy, driving high completion rate (26s) before cutting on an unresolved power shift.",
+    "scores": {
+      "hook_score": 9.2,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 9.0,
+      "composite_score": 8.51
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP020_015s",
+    "global_rank": 19,
+    "episode": 20,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 23.9,
+    "segments": [
+      {
+        "episode": 20,
+        "start": "00:15.20",
+        "end": "00:39.10",
+        "start_sec": 15.2,
+        "end_sec": 39.1,
+        "duration_sec": 23.9
+      }
+    ],
+    "hook": "CATHERINE (Cold, Haughty): \"'Practically' is a word for beggars. I do not marry a practical Duke.\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "CATHERINE: \"How much longer can the frail thing survive?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (CATHERINE vs RUPERT) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 9.1,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 9.0,
+      "composite_score": 8.47
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP046_101s",
+    "global_rank": 20,
+    "episode": 46,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 34.2,
+    "segments": [
+      {
+        "episode": 46,
+        "start": "01:41.80",
+        "end": "02:16.00",
+        "start_sec": 101.8,
+        "end_sec": 136.0,
+        "duration_sec": 34.2
+      }
+    ],
+    "hook": "ALEXANDER (Cold, Resolute): \"A Duke's marriage is judged by the Crown's peerage court, not by a parish priest\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "Action: The guards slowly lower their weapon points away from the Duke.",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "Universal moral outrage hook (ALEXANDER vs HIGH PRIEST) immediately triggers social scrolling stop, building unbearable injustice into a sharp Physical Climax.",
+    "scores": {
+      "hook_score": 9.1,
+      "cliffhanger_score": 6.2,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.45
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP011_046s",
+    "global_rank": 21,
+    "episode": 11,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 38.0,
+    "segments": [
+      {
+        "episode": 11,
+        "start": "00:46.00",
+        "end": "01:24.00",
+        "start_sec": 46.0,
+        "end_sec": 84.0,
+        "duration_sec": 38.0
+      }
+    ],
+    "hook": "GERALD (Taunting): \"If he has nothing to hide...\"",
+    "hook_type": "Physical Confrontation",
+    "cliffhanger": "GERALD: \"What is it, soldier? Going to strike a gentleman in front of his wife?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Shocking physical action breaks feed inertia, compelling viewers to watch the full emotional fallout.",
+    "scores": {
+      "hook_score": 7.4,
+      "cliffhanger_score": 8.3,
+      "standalone_clarity_score": 9.3,
+      "pacing_score": 10.0,
+      "composite_score": 8.44
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP001_032s",
+    "global_rank": 22,
+    "episode": 1,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 37.6,
+    "segments": [
+      {
+        "episode": 1,
+        "start": "00:32.80",
+        "end": "01:10.40",
+        "start_sec": 32.8,
+        "end_sec": 70.4,
+        "duration_sec": 37.6
+      }
+    ],
+    "hook": "LADY JULIANA (Shaken, Whispering): \"Gerald?\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "LADY JULIANA: \"And you knew?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Universal moral outrage hook (LADY JULIANA vs LADY IN GOLD GOWN) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unanswered Question.",
+    "scores": {
+      "hook_score": 8.2,
+      "cliffhanger_score": 6.8,
+      "standalone_clarity_score": 10.0,
+      "pacing_score": 10.0,
+      "composite_score": 8.41
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP022_091s",
+    "global_rank": 23,
+    "episode": 22,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 37.3,
+    "segments": [
+      {
+        "episode": 22,
+        "start": "01:31.50",
+        "end": "02:08.80",
+        "start_sec": 91.5,
+        "end_sec": 128.8,
+        "duration_sec": 37.3
+      }
+    ],
+    "hook": "LADY JULIANA (Breathless): \"This house...\"",
+    "hook_type": "Status Reversal",
+    "cliffhanger": "LADY JULIANA: \"Who has been treating you?\"",
+    "cliffhanger_type": "Unanswered Question",
+    "why_it_works": "Visceral power reversal creates instant empathy, driving high completion rate (37s) before cutting on an unresolved power shift.",
+    "scores": {
+      "hook_score": 7.6,
+      "cliffhanger_score": 7.8,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.4
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP046_020s",
+    "global_rank": 24,
+    "episode": 46,
+    "campaign_category": "Top-of-Funnel (Cold Hook)",
+    "total_duration_sec": 22.0,
+    "segments": [
+      {
+        "episode": 46,
+        "start": "00:20.50",
+        "end": "00:42.50",
+        "start_sec": 20.5,
+        "end_sec": 42.5,
+        "duration_sec": 22.0
+      }
+    ],
+    "hook": "HIGH PRIEST (O.S., Cold, Accusatory): \"You married this woman as a nameless beggar...\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "HIGH PRIEST: \"The church married a vagrant to a ruined lady. It never married the Duke of Ashburton\"",
+    "cliffhanger_type": "Unresolved Ultimatum",
+    "why_it_works": "Universal moral outrage hook (HIGH PRIEST vs ALEXANDER) immediately triggers social scrolling stop, building unbearable injustice into a sharp Unresolved Ultimatum.",
+    "scores": {
+      "hook_score": 9.1,
+      "cliffhanger_score": 6.5,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 9.0,
+      "composite_score": 8.38
+    },
+    "failure_risk_notes": ""
+  },
+  {
+    "promo_id": "PROMO_EP024_003s",
+    "global_rank": 25,
+    "episode": 24,
+    "campaign_category": "Mid-Funnel (Emotional Escalation)",
+    "total_duration_sec": 33.0,
+    "segments": [
+      {
+        "episode": 24,
+        "start": "00:03.50",
+        "end": "00:36.50",
+        "start_sec": 3.5,
+        "end_sec": 36.5,
+        "duration_sec": 33.0
+      }
+    ],
+    "hook": "NOBLEWOMAN (Sharp, Demanding): \"Who are you?\"",
+    "hook_type": "Altar Betrayal",
+    "cliffhanger": "Action: Juliana gasps in pain, clutching her stomach and bending over as she absorbs the brutal st",
+    "cliffhanger_type": "Physical Climax",
+    "why_it_works": "Universal moral outrage hook (NOBLEWOMAN vs LADY JULIANA) immediately triggers social scrolling stop, building unbearable injustice into a sharp Physical Climax.",
+    "scores": {
+      "hook_score": 7.0,
+      "cliffhanger_score": 8.4,
+      "standalone_clarity_score": 9.5,
+      "pacing_score": 10.0,
+      "composite_score": 8.37
+    },
+    "failure_risk_notes": ""
+  }
+]

@@ -1,0 +1,362 @@
+{
+  "total_evaluated": 25,
+  "clean_promos": 17,
+  "flagged_for_editorial_review": 3,
+  "warning_revisions_needed": 5,
+  "failure_mode_breakdown": {
+    "Pronoun Ambiguity": 1,
+    "High Visual Action / Low Dialogue": 0,
+    "Character Overcrowding": 2,
+    "Weak Cliffhanger Cut": 5
+  },
+  "detailed_diagnostics": [
+    {
+      "promo_id": "PROMO_EP002_053s",
+      "rank": 1,
+      "episode": 2,
+      "severity": "FLAGGED",
+      "flags": [
+        {
+          "issue": "Character Overcrowding",
+          "detail": "Contains 4 distinct speakers. Might feel cluttered in a 30s TikTok feed.",
+          "level": "MEDIUM"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 8,
+        "action": 1,
+        "camera": 10
+      }
+    },
+    {
+      "promo_id": "PROMO_EP002_000s",
+      "rank": 2,
+      "episode": 2,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 8,
+        "action": 1,
+        "camera": 10
+      }
+    },
+    {
+      "promo_id": "PROMO_EP030_074s",
+      "rank": 3,
+      "episode": 30,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 9,
+        "action": 0,
+        "camera": 9
+      }
+    },
+    {
+      "promo_id": "PROMO_EP029_024s",
+      "rank": 4,
+      "episode": 29,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 17,
+        "action": 0,
+        "camera": 16
+      }
+    },
+    {
+      "promo_id": "PROMO_EP026_055s",
+      "rank": 5,
+      "episode": 26,
+      "severity": "WARNING",
+      "flags": [
+        {
+          "issue": "Weak Cliffhanger Cut",
+          "detail": "Last line \"ft in this world but my honor.\" ends on a flat period without obvious unresolved tension.",
+          "level": "HIGH"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 4,
+        "action": 2,
+        "camera": 7
+      }
+    },
+    {
+      "promo_id": "PROMO_EP037_065s",
+      "rank": 6,
+      "episode": 37,
+      "severity": "WARNING",
+      "flags": [
+        {
+          "issue": "Weak Cliffhanger Cut",
+          "detail": "Last line \"And we will be there to watch.\" ends on a flat period without obvious unresolved tension.",
+          "level": "HIGH"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 5,
+        "action": 1,
+        "camera": 7
+      }
+    },
+    {
+      "promo_id": "PROMO_EP032_047s",
+      "rank": 7,
+      "episode": 32,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 11,
+        "action": 0,
+        "camera": 13
+      }
+    },
+    {
+      "promo_id": "PROMO_EP033_029s",
+      "rank": 8,
+      "episode": 33,
+      "severity": "WARNING",
+      "flags": [
+        {
+          "issue": "Weak Cliffhanger Cut",
+          "detail": "Last line \" will take him before sunrise.\" ends on a flat period without obvious unresolved tension.",
+          "level": "HIGH"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 11,
+        "action": 1,
+        "camera": 10
+      }
+    },
+    {
+      "promo_id": "PROMO_EP033_068s",
+      "rank": 9,
+      "episode": 33,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 14,
+        "action": 1,
+        "camera": 11
+      }
+    },
+    {
+      "promo_id": "PROMO_EP030_016s",
+      "rank": 10,
+      "episode": 30,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 8,
+        "action": 1,
+        "camera": 10
+      }
+    },
+    {
+      "promo_id": "PROMO_EP024_033s",
+      "rank": 11,
+      "episode": 24,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 10,
+        "action": 6,
+        "camera": 13
+      }
+    },
+    {
+      "promo_id": "PROMO_EP001_006s",
+      "rank": 12,
+      "episode": 1,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 8,
+        "action": 2,
+        "camera": 11
+      }
+    },
+    {
+      "promo_id": "PROMO_EP028_067s",
+      "rank": 13,
+      "episode": 28,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 8,
+        "action": 3,
+        "camera": 9
+      }
+    },
+    {
+      "promo_id": "PROMO_EP003_000s",
+      "rank": 14,
+      "episode": 3,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 16,
+        "action": 0,
+        "camera": 17
+      }
+    },
+    {
+      "promo_id": "PROMO_EP012_028s",
+      "rank": 15,
+      "episode": 12,
+      "severity": "WARNING",
+      "flags": [
+        {
+          "issue": "Weak Cliffhanger Cut",
+          "detail": "Last line \"ound is frozen, like pure ice.\" ends on a flat period without obvious unresolved tension.",
+          "level": "HIGH"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 9,
+        "action": 1,
+        "camera": 10
+      }
+    },
+    {
+      "promo_id": "PROMO_EP007_065s",
+      "rank": 16,
+      "episode": 7,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 7,
+        "action": 4,
+        "camera": 8
+      }
+    },
+    {
+      "promo_id": "PROMO_EP034_041s",
+      "rank": 17,
+      "episode": 34,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 9,
+        "action": 1,
+        "camera": 10
+      }
+    },
+    {
+      "promo_id": "PROMO_EP015_056s",
+      "rank": 18,
+      "episode": 15,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 4,
+        "action": 3,
+        "camera": 7
+      }
+    },
+    {
+      "promo_id": "PROMO_EP020_015s",
+      "rank": 19,
+      "episode": 20,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 11,
+        "action": 0,
+        "camera": 5
+      }
+    },
+    {
+      "promo_id": "PROMO_EP046_101s",
+      "rank": 20,
+      "episode": 46,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 6,
+        "action": 1,
+        "camera": 7
+      }
+    },
+    {
+      "promo_id": "PROMO_EP011_046s",
+      "rank": 21,
+      "episode": 11,
+      "severity": "FLAGGED",
+      "flags": [
+        {
+          "issue": "Character Overcrowding",
+          "detail": "Contains 4 distinct speakers. Might feel cluttered in a 30s TikTok feed.",
+          "level": "MEDIUM"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 12,
+        "action": 2,
+        "camera": 14
+      }
+    },
+    {
+      "promo_id": "PROMO_EP001_032s",
+      "rank": 22,
+      "episode": 1,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 12,
+        "action": 0,
+        "camera": 15
+      }
+    },
+    {
+      "promo_id": "PROMO_EP022_091s",
+      "rank": 23,
+      "episode": 22,
+      "severity": "FLAGGED",
+      "flags": [
+        {
+          "issue": "Pronoun Ambiguity",
+          "detail": "Opens with \"this\", risking lack of clarity for a cold scrolling viewer.",
+          "level": "MEDIUM"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 6,
+        "action": 6,
+        "camera": 11
+      }
+    },
+    {
+      "promo_id": "PROMO_EP046_020s",
+      "rank": 24,
+      "episode": 46,
+      "severity": "WARNING",
+      "flags": [
+        {
+          "issue": "Weak Cliffhanger Cut",
+          "detail": "Last line \"e Duke of Ashburton to anyone.\" ends on a flat period without obvious unresolved tension.",
+          "level": "HIGH"
+        }
+      ],
+      "element_counts": {
+        "dialogue": 5,
+        "action": 1,
+        "camera": 6
+      }
+    },
+    {
+      "promo_id": "PROMO_EP024_003s",
+      "rank": 25,
+      "episode": 24,
+      "severity": "PASS",
+      "flags": [],
+      "element_counts": {
+        "dialogue": 8,
+        "action": 4,
+        "camera": 11
+      }
+    }
+  ]
+}
